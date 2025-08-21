@@ -1,6 +1,6 @@
 // Replace this with your Render URL after you deploy the backend, e.g.
 // const BACKEND_URL = "https://sree-sastha-backend.onrender.com";
-const BACKEND_URL = "https://YOUR-BACKEND.onrender.com";
+const BACKEND_URL = "https://sree-sastha-backend.onrender.com";
 
 const form = document.getElementById('contactForm');
 const note = document.getElementById('note');
